@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @zody-cc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zody-cc/zody-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- zody
+- 💻 软件工程师
+- 📅 曾任职京东金融(北京)，阿里巴巴(杭州)，嘉云数据(杭州)
+- 🏍️ 爱机车
+- 🏋️‍♂️ 爱力量训练
+- 🎿 爱滑雪
